@@ -1,0 +1,62 @@
+Potential_Threat_Anxiety
+12881033	Potential avenues for future studies on anxiety-related threat-perception distortions are briefly discussed.
+12881033	"From children's responses to these stories, a number of threat-perception indexes were derived."
+17530492	Information processing models propose that anxious individuals are characterized by memory biases for mood-congruent threat information.
+19055504	N2 amplitudes were greater to incongruent versus congruent flankers.
+19055504	The present study examined this question using the N2 event-related brain potential.
+20136732	Pleasant stimuli mismatching the current state of anticipatory anxiety apparently draw more attentional resources.
+20136732	The present study examined the interaction of anticipatory anxiety and selective emotion processing.
+20196100	This study sought to examine the LPP among individuals with generalized anxiety disorder (GAD).
+20196100	Behavioral and ERP measures provide complimentary indices of attention toward threat in GAD.
+20497902	"BACKGROUND: Though a key symptom underlying many anxiety disorders is hypervigilant threat monitoring, its biological bases in humans remain poorly understood."
+20497902	RESULTS: A forebrain region consistent with the BNST showed greater overall recruitment and exaggerated tracking of threat proximity in individuals with greater anxiety.
+20708493	These findings are discussed in relation to current conceptualizations of the construct of emotion as well as directions for future research and potential implications for clinical practice.
+20708493	"Patterns of synchrony in repeated measures of heart rate, skin conductance levels, negative affect, and positive affect were investigated in patients with social anxiety disorder and non-anxious controls during a speech task."
+21147162	"cognitive-affective neuroscience, evolutionary psychology) can advance psychiatric theory and research."
+21147162	We emphasize the potential value of a model of threat detection and precautionary responses that integrates cognitive-affective neuroscience and evolutionary approaches for understanding the anxiety disorders.
+22277369	This study investigated modifications to standing posture in response to elevated postural anxiety evoked by a potential physical threat to stability.
+22277369	The trunk sway modifications observed in response to elevated postural anxiety were dependent on age and disease.
+22913339	Challenge and threat states were successively manipulated via task instructions.
+22913339	"Multiple putting kinematic variables mediated the relationship between group and performance, suggesting that challenge and threat states impact performance at a predominately kinematic level."
+23709354	"Given its social origin, we asked whether an anxiety-inducing social situation could enhance the processing of faces linked to the situational threat."
+23709354	"Social anxiety is the intense fear of negative evaluation by others, and it emerges uniquely from a social situation."
+23834735	Anxiety regarding H1N1 is heightened amongst those who cannot tolerate uncertainty.
+23959788	"RESULTS: Significant three-way interactions regressing threat reaction times (RTs), neutral RTs, and combat exposure on PTSD and anxiety symptoms were observed."
+23959788	"METHODS: Four months after a combat deployment to Iraq, 63 US soldiers completed a survey assessing combat exposures and clinical symptoms as well as a dot-probe task assessing threat-related attention bias."
+24562723	The current study is a review of existing literature on perceived threat across childhood (0-19 years).
+24562723	These findings have meaningful extensions for children who are living in violent families.
+25084754	"Specifically, we used a visual search task in which participants were required to locate a target while ignoring a salient distractor stimulus."
+25084754	"However, whether and how anxiety is related to attentional capture at a more basic level (i.e., in the absence of threat) is less well understood."
+25793401	"Study 1 (N = 106) showed that relative to comparisons, OHS reported more preoccupation with the Iranian nuclear threat."
+25793401	"Study 2 (N = 450) replicated these findings, while focusing on the Iranian nuclear threat salience and symptoms of psychological distress."
+26039081	"In the present study, 41 adolescents diagnosed with a mental illness and 45 demographically matched controls were asked to provide danger ratings of stimuli normatively rated as being either low or high in potential threat."
+26042381	"Using the facial dot probe task in socially anxious individuals has, however, revealed inconsistent findings."
+26042381	Social anxiety is supposedly associated with an attentional bias towards disorder related stimuli such as threatening faces.
+26090588	"However, complex adaptive systems, such as our adaptation to threat or stress, by definition provide many and often interrelated points of breakdown or dysregulation, which, if sustained, may lead to psychopathology."
+26090588	It is more or less prominent in patients diagnosed with practically all psychiatric or neurodegenerative disorders.
+26459845	"Fifty-two high (n=24) and low (n=28) worriers completed a paradigm in which a neutral stimulus indicated the valence of a second stimulus, either a threat or neutral picture."
+26480349	"During retrieval, participants indicated whether images were new, old, or altered."
+26480349	Fear overgeneralisation is often observed in individuals with posttraumatic stress disorder and other anxiety disorders.
+27110477	Worry is characterized by streams of verbal thoughts about potential negative outcomes.
+27110477	What is not clear is the extent to which verbal negative thinking style maintains worry.
+27129757	Behavioral measures showed generally poor test-retest reliability.
+27129757	Perturbed fronto-amygdala function consistently arises in attention bias research on adolescent anxiety.
+27369069	Anxiety can have both detrimental and facilitatory cognitive effects.
+27369069	These findings identify potential mechanisms by which threat of unpredictable shock can facilitate distinct cognitive functions.
+27693664	Diagnostic remission and Liebowitz Social Anxiety Scale (LSAS) were clinical outcomes available in enough studies to enable pooling.
+27693664	"Computer-based approaches, such as Attention Bias Modification (ABM), could help improve access to care for anxiety."
+27766643	The P2 (230-290 ms) was significantly less positive under perceived RLIB.
+27766643	"Here, we investigated by means of visually evoked potentials how the perception versus anticipation of resistive-load-induced breathlessness (RLIB) influences emotional processing."
+28008077	Negative emotions such as anxiety enhance pain perception.
+28008077	"In two groups, participants underwent either Pavlovian threat conditioning or an instructed threat procedure."
+28024913	Low-income smokers may use smoking to alleviate negative emotional states resulting from exposure to multiple stressors.
+28024913	Findings broaden current theoretical understanding of pathways through which anxiety symptoms contribute to maladaptive smoking processes and cognitions among socioeconomically disadvantaged smokers.
+28183031	"Increased levels of peripheral inflammatory markers, including C-Reactive Protein (CRP), are associated with increased risk for depression, anxiety, and suicidality."
+28183031	Participants underwent functional MRI scanning while performing an emotional face matching task to obtain a measure of threat-related amygdala activity to angry and fearful faces; CRP concentrations were assayed from dried blood spots.
+28364943	"In successive epochs of this game, participants collect monetary tokens on a spatial grid while under threat of virtual predation."
+28364943	RESULTS: Lorazepam and amygdala lesions reduced loss adaptation in the primary outcome measure.
+28370078	Predictability is an important characteristic of threat that impacts defensive motivation and attentional engagement.
+28370078	These effects did not differ between the shock and unpleasant picture trials.
+28407726	"ABMT may target rapid, implicit threat reactions, whereas CBT may target slowly deployed threat responses."
+28407726	Task-related amygdala-based functional connectivity was assessed.
+28606471	All participants completed a flanker task designed to robustly elicit the ERN and questionnaires assessing current internalizing symptoms and problematic alcohol use.

@@ -1,0 +1,54 @@
+Circadian_Rhythms
+24132226	Melatonin is a multifaceted molecule with direct free radical scavenging and indirect antioxidant activities.
+24942699	"While clock components are widely conserved, circadian phenomena display diversity even within the Lemna genus."
+24942699	Recent studies revealed evolutionary conservation of clock components in green plants.
+24971530	Disordered circadian rhythms are associated with various psychiatric conditions and metabolic diseases.
+24971530	"Importantly, the circadian expression of hepatic clock genes was completely unaffected in CSD mice."
+26004319	Whether temperature also affects the immune rhythm of animals still remains unclear.
+26004319	The results present here collectively indicated that temperature cycles entrained circadian rhythm of some immune parameters and shaped crayfish resistance to bacteria.
+26253214	One way to explore mechanisms is to utilize animal models.
+27168152	"To explore the mechanisms involved, we inhibited LPS-stimulated NO and superoxide."
+27168152	These results suggest that pro-inflammatory stimuli can disrupt circadian rhythms in macrophages and that impaired circadian rhythms may contribute to cardiovascular diseases by altering macrophage behavior.
+27506697	"MATERIALS AND METHODS: This prospective observational study was done at Ghent University Hospital, Belgium."
+27568094	Microglia-the innate immune cell of the central nervous system-possess endogenous timekeeping mechanisms that regulate immune responses.
+27568094	"Overall, these results indicate that aging dysregulates circadian regulation of neuroinflammatory functions."
+27736193	We investigated the hypothesis that there is no circadian rhythm in QT interval in the absence of KChIP2.
+27736193	No ventricular arrhythmias or sudden cardiac deaths were observed.
+28286126	"Moreover, whether circadian rhythms of particular motivated behaviors exist is unknown."
+28286126	"Finally, daily rhythms of sucrose intake and preference were abolished in Per2(Brdm1)- and double Per1(-/-)Per2(Brdm1)-mutant animals."
+28321642	Circadian dysregulation may provide vulnerability to BSD onset.
+28321642	Growing research supports an integrative reward/circadian model.
+28823816	Circadian rhythms are biorhythms with a 24-hour period that are regulated by molecular clocks.
+28823816	"In addition, perturbation of the cardiac clock by the use of several compounds including Resveratrol and Ex-527 was found to result in loss of functional rhythmicity."
+28910551	We found that the R1 inmates were exposed to lower amounts of light during waking time and higher amounts during sleeping time.
+28910551	"In addition, the sleep of R1 inmates suffered higher disturbances as a consequence of the different policy for nocturnal diapers check and change."
+28984167	"Here, we tested the hypothesis that there is task-related plasticity in circadian rhythms of antennal responsiveness to odorants in worker honeybees."
+28984167	The insect antennae receive olfactory information from the environment.
+29065948	"This review will explore the present data in the field of circadian rhythms, ageing and metabolism."
+29065948	"Recently, we have shown that well-being can be achieved by resetting of the circadian clock and induction of robust catabolic circadian rhythms via timed feeding."
+29204752	"These cellular circadian clocks compose a multicellular circadian system working at respective levels of tissue, organ, plant body."
+29204752	This imaging technique quantitatively revealed heterogeneous and independent manners of cellular clock behaviors.
+29660304	Melatonin could prevent isoflurane-induced cognitive impairments by circadian rhythm resynchronization.
+29660304	Advanced age is a significant independent risk factor for POCD.
+29702105	This study can be considered as a reference to the comparative animal physiology among rodents.
+29843180	Chronobiological therapy is based on these disturbed processes.
+29843180	The successful treatment of depression also frequently leads to a improvement in altered circadian rhythm.
+29953265	The desynchronization of a 24-h rhythm in a chronic manner has been recently defined chronodisruption or circadian disruption.
+29966532	This observational cross-sectional study aimed to: 1.
+29966532	Analyze the principal characteristic of the different onset time groups 3.
+29971599	We review here the relationship between DST and cardiovascular health.
+29971599	"Possible mechanisms include sleep deprivation, circadian misalignment and environmental conditions."
+30080328	"However, circadian rhythms of the antioxidant enzymes (AOE) activities were inherent only adult rats when light deprivation impacted on pregnant females (group DD/DD)."
+30080328	We studied the age-related features of circadian rhythms of superoxide dismutase (SOD) and catalase activity in the liver of rats under light deprivation.
+30176735	A sinusoidal smoothing function was used to show the average circadian trends.
+30176735	There was a significant association between time of symptom onset and the circadian cycle.
+30290235	BACKGROUND: The poor prognostic of Bipolar disorders (BD) is closely linked to deaths by suicide.
+30290235	"CONCLUSIONS: Woman gender, vigorous circadian type, insomnia and an earlier daily activity appeared independently associated with SA in BD."
+30516584	"However, translation of this knowledge into humans remains incomplete."
+30516584	"Pleiotropy, epistasis and nongenetic factors may play important roles in regulating circadian rhythms, some of which may underlie circadian rhythm disturbances in BD."
+30523071	Circadian rhythms are endogenously generated recurring patterns of around 24 hours with well-established roles in physiology and behaviour.
+30523071	"Clinicians should be aware of the influence that circadian desynchrony can have on health and disease, in order to potentially develop new therapeutic strategies and to incorporate chronotherapeutics into current treatment strategies to enhance their utility."
+30533004	"The avian pineal gland, an independent circadian oscillator, receives external photic cues and translates them for the rhythmical synthesis of melatonin."
+30533004	These results suggested that BMAL1 rather than CLOCK plays a critical role in the regulation of monochromatic green light-induced melatonin rhythm synthesis in chicken pinealocytes.
+30784558	"Furthermore, clinical trials are needed to determine whether circadian interventions could prevent or delay the onset of neurodegenerative diseases."
+30784558	"While preliminary clinical studies are promising, more studies of circadian rhythm disruptions and its mechanisms are required."
